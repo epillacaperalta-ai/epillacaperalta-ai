@@ -25,22 +25,34 @@
 
 ## 🛠️ Habilidades Técnicas y Herramientas
 
-### 🎨 Frontend
+### 💻 Lenguajes de Programación
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,java,py,cpp" alt="Lenguajes de Programación" />
+</p>
+
+### 🎨 Desarrollo Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" />
 </p>
 
-### ⚙️ Backend y Lenguajes
+### ⚙️ Desarrollo Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,java,py" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,py" alt="Backend" />
 </p>
 
-### 🗄️ Bases de Datos y Servidores
+### 🗄️ Bases de Datos & Gestión
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Bases de Datos" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,sqlite" alt="Bases de Datos" />
 </p>
 
-### 🧰 Herramientas de Desarrollo y Software
+### 🧰 Herramientas, Entornos y Entorno Dev
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,unity,git,github" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,unity,git,github,linux" alt="Herramientas" />
+</p>
+
+---
+
+## 📈 Actualmente Aprendiendo & Roadmap
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,docker,mongodb,bootstrap,tailwind" alt="Roadmap" />
 </p>
